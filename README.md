@@ -10,4 +10,4 @@ Random study for JavaScript
 
 
 # Source:
-<p>https://class.buildwithangga.com/course_playing/node-javascript-dasar</p>
+<p>https://buildwithangga.com/</p>
