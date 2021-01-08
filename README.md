@@ -1,5 +1,5 @@
 # ablationvanillaJS
-Random study for JavaScript
+Modul pembelajaran untuk Vanilla JS (kata siapa Vanilla JS hanya joke?)
 
 
 ## Current Path
