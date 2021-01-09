@@ -13,6 +13,7 @@ Modul pembelajaran untuk Vanilla JS (kata siapa Vanilla JS hanya joke?)
     <li>4.2 Object-array = Pembelajaran mengenari objek dengan array dasar</li>
   </ul>
   <li>5. Array Part 2 = Array with object function</li>
+  <li>6. Loop = Perulangan pada item array</li>
 </ul>
 
 
