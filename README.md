@@ -14,6 +14,7 @@ Modul pembelajaran untuk Vanilla JS (kata siapa Vanilla JS hanya joke?)
   </ul>
   <li>5. Array Part 2 = Array with object function</li>
   <li>6. Loop = Perulangan pada item array</li>
+  <li>7. Conditional = Pemberian kondisi pada property function</li>
 </ul>
 
 
