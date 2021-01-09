@@ -8,8 +8,10 @@ Modul pembelajaran untuk Vanilla JS (kata siapa Vanilla JS hanya joke?)
   <li>2. Data Type = Simple tipe data</li>
   <li>3. Operators = Basic operator dalam JS. ada +, spasi (entah apa namanya nggak tau)</li>
   <li>4. Array Part 1 = Standard array</li>
-  <p>&nbsp<li>4.1 Object-no-array = Pembelajaran mengenari objek tanpa menggunakan array</li><p>
-  <li>&nbsp 4.2 Object-array = Pembelajaran mengenari objek dengan array dasar</li>
+  <ul>
+    <li>4.1 Object-no-array = Pembelajaran mengenari objek tanpa menggunakan array</li>
+    <li>4.2 Object-array = Pembelajaran mengenari objek dengan array dasar</li>
+  </ul>
   <li>5. Array Part 2 = Array with object function</li>
 </ul>
 
